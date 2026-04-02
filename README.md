@@ -1,1 +1,2 @@
 # Etude_du_mouvement_harmonique_simul-
+suppression README
